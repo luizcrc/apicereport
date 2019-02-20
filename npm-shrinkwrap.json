@@ -4169,23 +4169,6 @@
         "jsrender": "0.9.90"
       }
     },
-    "jsreport-licensing": {
-      "version": "2.0.1",
-      "resolved": "https://registry.npmjs.org/jsreport-licensing/-/jsreport-licensing-2.0.1.tgz",
-      "integrity": "sha512-W+iKBXVcnqUTmBKeRdWAnxdY0KfpwK00HHMspVtFhy7xW9DUwLGJlLv3fmFzweo25ZFv8IdJgt8055L0TDInsw==",
-      "requires": {
-        "bluebird": "3.5.3",
-        "mkdirp": "0.5.1",
-        "request": "2.88.0"
-      },
-      "dependencies": {
-        "bluebird": {
-          "version": "3.5.3",
-          "resolved": "https://registry.npmjs.org/bluebird/-/bluebird-3.5.3.tgz",
-          "integrity": "sha512-/qKPUQlaW1OyR51WeCPBvRnAlnZFUJkCSG5HzGnuIqhgyJtF+T94lFnn33eiazjRm2LAHVy2guNnaq48X9SJuw=="
-        }
-      }
-    },
     "jsreport-pdf-utils": {
       "version": "1.2.0",
       "resolved": "https://registry.npmjs.org/jsreport-pdf-utils/-/jsreport-pdf-utils-1.2.0.tgz",
