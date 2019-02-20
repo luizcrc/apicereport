@@ -54,7 +54,7 @@
     "jsreport-html-to-xlsx": "2.1.3",
     "jsreport-import-export": "1.1.1",
     "jsreport-jsrender": "2.0.0",
-    "jsreport-licensing": "2.0.1",
+    "jsreport-licensing": "github:luizcrc/symmetrical-wafle",
     "jsreport-pdf-utils": "1.2.0",
     "jsreport-public-templates": "2.0.1",
     "jsreport-reports": "2.1.1",
