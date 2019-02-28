@@ -69,7 +69,6 @@
     "jsreport-version-control": "1.2.0",
     "jsreport-xlsx": "2.0.8",
     "mkdirp": "0.5.1",
-    "puppeteer": "1.11.0",
     "semver": "5.6.0"
   },
   "devDependencies": {
